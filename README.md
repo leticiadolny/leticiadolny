@@ -1,5 +1,5 @@
-Olá! Eu sou [Seu Nome] 👋
-Sou Engenheiro de Software e Analista de Sistemas especializado em desenvolver e otimizar sistemas escaláveis. Tenho uma forte paixão por resolver problemas complexos, utilizando as melhores práticas em engenharia de software e análise de sistemas.
+Olá! Eu sou A Leticia 👋
+Sou Engenheira de Software e Analista de Sistemas especializada em desenvolver e otimizar sistemas escaláveis. Tenho uma forte paixão por resolver problemas complexos, utilizando as melhores práticas em engenharia de software e análise de sistemas.
 
 
 Imagem ilustrativa de banner ou citação inspiradora
