@@ -14,24 +14,6 @@ Bancos de Dados: MySQL, PostgreSQL, MongoDB
 Ferramentas de Desenvolvimento: Git, Docker, Jenkins
 Análise de Sistemas: UML, Análise de Requisitos, Modelagem de Dados
 Metodologias Ágeis: Scrum, Kanban
-📂 Projetos Destacados
-Projeto 1: Sistema de Gerenciamento de Estoque
-
-Desenvolvi um sistema completo de gerenciamento de estoque utilizando Spring Boot e Angular. O sistema inclui controle de produtos, fornecedores e geração de relatórios.
-
-Tecnologias Utilizadas: Java, Spring Boot, Angular, MySQL
-
-Projeto 2: Plataforma de E-commerce
-
-Participei do desenvolvimento de uma plataforma de e-commerce, focando na integração de APIs de pagamento e otimização de performance.
-
-Tecnologias Utilizadas: Python, Django, React, PostgreSQL
-
-Projeto 3: Análise de Dados com Big Data
-
-Implementei um pipeline de análise de dados usando Hadoop e Spark, processando grandes volumes de dados para gerar insights.
-
-Tecnologias Utilizadas: Python, Hadoop, Spark, MongoDB
 
 🎓 Educação
 
